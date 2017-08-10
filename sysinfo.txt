@@ -1,0 +1,76 @@
+------------------
+System Information
+------------------
+      Time of this report: 8/10/2017, 00:40:23
+             Machine name: ARYA
+         Operating System: Windows 10 Home 64-bit (10.0, Build 15063) 
+                 Language: English (Regional Setting: English)
+      System Manufacturer: Dell Inc.
+                     BIOS: 1.1.7
+                Processor: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz (8 CPUs), ~2.6GHz
+                   Memory: 16384MB RAM
+      Available OS Memory: 16244MB RAM
+                Page File: 7312MB used, 11364MB available
+              Windows Dir: C:\WINDOWS
+          DirectX Version: DirectX 12
+      DX Setup Parameters: Not found
+         User DPI Setting: Using System DPI
+       System DPI Setting: 120 DPI (125 percent)
+          DWM DPI Scaling: Enabled
+                 Miracast: Available, with HDCP
+Microsoft Graphics Hybrid: Supported
+
+---------------
+Display Devices
+---------------
+          Card name: Intel(R) HD Graphics 530
+       Manufacturer: Intel Corporation
+          Chip type: Intel(R) HD Graphics Family
+           DAC type: Internal
+        Device Type: Full Device
+        Device Problem Code: No Problem
+Driver Problem Code: Unknown
+     Display Memory: 8250 MB
+   Dedicated Memory: 128 MB
+      Shared Memory: 8122 MB
+       Current Mode: 1920 x 1080 (32 bit) (60Hz)
+       Monitor Name: Generic PnP Monitor
+      Monitor Model: unknown
+         Monitor Id: LGD04B9
+        Native Mode: 1920 x 1080(p) (60.020Hz)
+        Output Type: Internal
+       Driver File Version: 21.20.0016.4627 (English)
+     Driver Version: 21.20.16.4627
+        DDI Version: 12
+     Feature Levels: 12_1,12_0,11_1,11_0,10_1,10_0,9_3,9_2,9_1
+       Driver Model: WDDM 2.1
+Graphics Preemption: Triangle
+ Compute Preemption: Thread
+           Miracast: Supported
+Hybrid Graphics GPU: Integrated
+     Power P-states: Not Supported
+  Driver Attributes: Final Retail
+   Driver Date/Size: 3/8/2017 7:00:00 PM, 94226936 bytes
+        
+ 
+
+          Card name: NVIDIA GeForce GTX 960M
+       Manufacturer: NVIDIA
+          Chip type: GeForce GTX 960M
+           DAC type: Integrated RAMDAC
+        Device Type: Render-Only Device
+       Device Problem Code: No Problem
+Driver Problem Code: Unknown
+     Display Memory: 12188 MB
+   Dedicated Memory: 4065 MB
+      Shared Memory: 8122 MB
+       Current Mode: Unknown
+        Driver File Version: 22.21.0013.8205 (English)
+     Driver Version: 22.21.13.8205
+        DDI Version: 12
+     Feature Levels: 11_0,10_1,10_0,9_3,9_2,9_1
+       Driver Model: WDDM 2.2
+Graphics Preemption: DMA
+ Compute Preemption: DMA
+
+        
