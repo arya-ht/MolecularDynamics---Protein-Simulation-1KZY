@@ -1,0 +1,35 @@
+------------------
+System Information
+------------------
+ Time of this report: 8/10/2017, 00:41:26
+       Machine name: ARIA-VAIO
+  Operating System: Windows 7 Home Premium 64-bit (6.1, Build 7601) Service Pack 1 
+               Language: English (Regional Setting: English)
+System Manufacturer: Sony Corporation
+       System Model: VPCEB23FM
+          Processor: Intel(R) Core(TM) i3 CPU       M 350  @ 2.27GHz (4 CPUs), ~2.3GHz
+             Memory: 4096MB RAM
+Available OS Memory: 3758MB RAM
+          Page File: 3107MB used, 4745MB available
+        Windows Dir: C:\Windows
+    DirectX Version: DirectX 11
+   User DPI Setting: Using System DPI
+ System DPI Setting: 96 DPI (100 percent)
+    DWM DPI Scaling: Disabled
+     DxDiag Version: 6.01.7601.17514 32bit Unicode
+---------------
+Display Devices
+---------------
+          Card name: Intel(R) HD Graphics
+       Manufacturer: Intel Corporation
+          Chip type: Intel(R) HD Graphics (Core i3)
+           DAC type: Internal
+     Display Memory: 1751 MB
+   Dedicated Memory: 128 MB
+      Shared Memory: 1623 MB
+       Current Mode: 1366 x 768 (32 bit) (59Hz)
+       Monitor Name: Generic PnP Monitor
+      Monitor Model: unknown
+         Monitor Id: SNY05FA
+        Native Mode: 1366 x 768(p) (59.940Hz)
+        Output Type: Internal  
